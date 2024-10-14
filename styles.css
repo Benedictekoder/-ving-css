@@ -1,1 +1,39 @@
+.firstsection{
+    background-image: url();
+    height:100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+
+.firstsection >h1 {
+    width
+background-color:black;
+color: antiquewhite;
+text-align: center
+padding:15px 
+opacity:0.3;
+}
+
+.secondsection{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width:500px;
+    border:2px solid black;
+    display: flex;
+}
+
+.cardimg{
+    width: 50%;
+}
+
+.cardtext{
+    width:50%;
+}
